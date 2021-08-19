@@ -1,0 +1,12 @@
+BDT - Bangladeshi Taka
+1.00
+USD - US Dollar
+84.95
+RS - Indian Rupee
+1.14
+EUR - Euro
+99.38
+SAR - Saudi Arabian Riyal
+22.65
+KWD - Kuwaiti Dinar
+282.33
